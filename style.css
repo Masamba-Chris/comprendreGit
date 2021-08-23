@@ -5,5 +5,10 @@ body{
 p{
 
 	font-weight: bolder;
-	position: relative;
+	height: 200px;
+	border: blueviolet solid 1px;
+}
+.maman{
+    height: 50px;
+    background-color: grey;
 }
